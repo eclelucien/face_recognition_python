@@ -1,4 +1,6 @@
 import cv2
+from flask import Flask
+
 
 classificador = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
 camera = cv2.VideoCapture(0)
