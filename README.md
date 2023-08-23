@@ -2,7 +2,6 @@
 Testing the opencv library
 # OpenCV Python Project
 
-![Project Logo](project_logo.png) <!-- Replace with your project logo or an appropriate image -->
 
 Welcome to the OpenCV Python project! This project aims to explore the capabilities of the OpenCV library in Python for various image processing and computer vision tasks.
 
